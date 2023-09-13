@@ -142,7 +142,8 @@ print(x_single_prediction)
 
 
 ### New Sample Data Prediction
-![image](https://github.com/Aashima02/mnist-classification/assets/93427086/1c65fb08-db78-4eb1-b341-063938132bb2)
+![image](https://github.com/Aashima02/mnist-classification/assets/93427086/a9a80a51-caf6-4129-ab0c-da45d508a2e7)
+
 
 ![image](https://github.com/Aashima02/mnist-classification/assets/93427086/d1c41008-4b4f-4830-a401-e505787604ce)
 
