@@ -119,6 +119,7 @@ x_single_prediction = np.argmax(
     model.predict(img_28_gray_inverted_scaled.reshape(1,28,28,1)),
      axis=1)
 print(x_single_prediction)
+plt.imshow(img_28_gray_inverted_scaled.reshape(28,28),cmap='gray')
 
 
 
